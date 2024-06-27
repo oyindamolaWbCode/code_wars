@@ -108,7 +108,7 @@ function queueTime(customers, n) {
   return Math.max(...tills);
 }
 
-//return the total number of smiling faces in the array
+
 function countSmileys(arr) {
   const validSmiley = /^[:;][-~]?[)D]$/;
  
